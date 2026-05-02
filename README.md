@@ -8,7 +8,7 @@ Tired of slow Android file search? Anything finds your PDFs, Word docs, and file
 - Lightweight & privacy-friendly
 
 ## Download
-- [Anything_v1.0.apk](直接上传文件后生成的链接)
+- https://github.com/juanying65/Anything-Search-App/releases/tag/v1.3.22
 
 ## How to install
 1. Download the APK
