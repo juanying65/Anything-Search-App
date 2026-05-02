@@ -18,5 +18,5 @@ Tired of slow Android file search? Anything finds your PDFs, Word docs, and file
 Feedback welcome! Issues or suggestions → open an Issue.
 
  **📌 重要声明 / Important Disclaimer**  
-我**不是该应用的开发者**。本 APK 来自公开渠道，由开发者**诚夏 @XDU** 开发。我仅作为用户分享此资源。
+我**不是该应用的开发者**。本 APK 来自公开渠道，由开发者**诚夏 @ XDU** 开发。我仅作为用户分享此资源。
 
