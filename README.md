@@ -16,3 +16,12 @@ Tired of slow Android file search? Anything finds your PDFs, Word docs, and file
 3. Install & enjoy!
 
 Feedback welcome! Issues or suggestions → open an Issue.
+
+ 重要声明 / Important Disclaimer我不是该应用的开发者。
+本 APK 来自公开渠道，由开发者诚夏 @ XDU
+ 开发。
+我仅作为用户分享此资源，方便大家下载使用。I am not the developer of this app.
+This APK is shared from public sources. The original developer is 诚夏 @ XDU
+I am only re-sharing it for convenience.
+
+
